@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harmonbhasin
-- 👀 I’m interested in computer science, economics, and neuroscience.
-- 🌱 I’m currently learning React.js and Node.js
-- 💞️ I’m looking to collaborate on research.
+- 👀 Currently studying Computer Science and Economics with a Mathematical Emphasis at UW-Madison
+- 🌱 I’m currently reviewing Python, and learning React Native
+- 💞️ I’m looking to collaborate on research
 - 📫 How to reach me www.harmonbhasin.me
 
 <!---

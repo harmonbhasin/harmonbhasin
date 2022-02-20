@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harmonbhasin
 - 👀 Currently working on a startup
-- 🌱 I’m currently reviewing Python, and learning React Native
+- 🌱 I’m currently working with Python, and React
 - 💞️ I’m looking to collaborate on research
 - 📫 How to reach me www.harmonbhasin.me
 

@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @harmonbhasin
-- 👀 Currently working on a startup
-- 🌱 I’m currently working with Python, and React
-- 💞️ I’m looking to collaborate on research
-- 📫 How to reach me www.harmonbhasin.me
+- 👀 Currently working on my startup, it's called Saltubolic, check it out at www.saltubolic.com.
+- 🌱 I’m currently do most of my work in Typescript, Python, and Bash.
+- 💞️ I always love collaborating with new people so feel free to reach out to me!
+- 📫 How to reach me www.harmonbhasin.com
 
 <!---
 harmonbhasin/harmonbhasin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

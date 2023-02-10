@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harmonbhasin
-- 👀 Currently working on my startup, it's called Saltubolic, check it out at www.saltubolic.com.
+- 👀 Currently working on my startup, it's called Bolic, check it out at www.bolic.io.
 - 🌱 I’m currently do most of my work in Typescript, Python, and Bash.
 - 💞️ I always love collaborating with new people so feel free to reach out to me!
 - 📫 How to reach me www.harmonbhasin.com

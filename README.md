@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harmonbhasin
-- 👀 Currently working on biostatistics and nlp research.
-- 🌱 I’m currently do most of my work in Typescript, Python, and Bash.
+- 👀 Currently working on comp bio and nlp research.
+- 🌱 I’m currently do most of my work in Python, R, Bash, and Typescript.
 - 💞️ I always love collaborating with new people so feel free to reach out to me!
 - 📫 How to reach me www.harmonbhasin.com
 

@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Quirk](https://greptile-stats.vercel.app/api/widget/harmonbhasin/quirk)
+![Github Stats](https://greptile-stats.vercel.app/api/widget/harmonbhasin/stats)
+

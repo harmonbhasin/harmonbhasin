@@ -15,5 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Github Stats](https://greptile-stats.vercel.app/api/widget/harmonbhasin/stats)
-
